@@ -1,15 +1,15 @@
 
 /* Your CSS Code here. */
-.margin{
-	margin:20px;
-}
-.border{
-	border:15px solid blue;
+.para{
+	width:300px
 }
 .padding{
 	padding:50px;
 	color:lightblue;
 }
-.para{
-	width:300px
+.border{
+	border:15px solid blue;
+}
+.margin{
+	margin:20px;
 }
