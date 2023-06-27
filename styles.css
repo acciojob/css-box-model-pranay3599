@@ -1,9 +1,9 @@
 
 /* Your CSS Code here. */
 .para{
-	width:300px;
-	padding:50px;
-	color:rgb(173, 216, 230);
-	border:15px solid rgb(0,0, 268);
-	margin:20px;
+	width: 300px;
+    padding: 50px;
+    background-color: lightblue;
+    border: 15px solid blue;
+    margin: 20px;
 }
